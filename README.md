@@ -5,7 +5,6 @@ An Android app for setting a colour or pattern from [COLOURlovers](https://www.c
 ## Features
 
 - Browse patterns from colourlovers.com and set one as wallpaper
-- Browse colours from COLOURlovers and set one as wallpaper
 - Save colours or patterns as favourites
 
 ![Screenshots](screenShots.png)
